@@ -1,7 +1,7 @@
 [#observing-environments]
 = Observability configuration
 
-Continue reading to understand what metrics can be collected with the observability compnent, and for information about the observability pod capacity.
+Continue reading to understand what metrics can be collected with the observability component, and for information about the observability pod capacity.
 
 [#metric-types]
 == Metric types
